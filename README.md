@@ -4,7 +4,6 @@
 
 Olá, me chamo Estefania Carrer, sou formada em Engenharia Elétrica e durante alguns anos tive a oportunidade de trabalhar em diferentes áreas, incluindo projetos, vendas e consultoria. Atualmente estou me especializando na área Tech (Foco em Back-End - Java) e considero que a tecnologia sempre teve um papel fundamental na minha vida, despertando em mim uma enorme vontade de aprender coisas novas e me manter atualizada referente ao mercado.
 </br>
-</br>
 
 ## 📚 Formação: 
 
@@ -12,14 +11,13 @@ Olá, me chamo Estefania Carrer, sou formada em Engenharia Elétrica e durante a
 Desenvolvimento de Software (Java) - Cursos Livres - 05/2022 até o momento</br>
 Engenharia Elétrica (Ênfase em Controle e Automação) - Universidade de Uberaba - 01/2011 - 12/2015. 
 </br>
-</br>
 
  ## 🌐 Contato:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefania-carrer-49659110a/)
  [![E-mail](https://img.shields.io/badge/Email-Direto-red)](estefania.carrer@hotmail.com) 
 </br>
-</br>
+
 
 ## 💻 Tecnologias:
 
@@ -45,11 +43,14 @@ Engenharia Elétrica (Ênfase em Controle e Automação) - Universidade de Ubera
  [![Grafana](https://img.shields.io/badge/-Grafana-orange)](https://grafana.com/) 
  [![AWS](https://img.shields.io/badge/-AWS-yellow)](https://aws.amazon.com/) 
 </br>
-</br>
+
 
 # 📊 Estatísticas do GitHub: 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=estefaniacarrer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-
+</br>
+# 🎓 Certificações:
+<div>
+  <img height="140em" src="https://github.com/a-lloma/a-lloma/assets/35180706/fbdbf793-5611-42bb-824a-19cc2a3fad02.png"/>
+</div>
 
