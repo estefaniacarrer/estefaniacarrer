@@ -42,6 +42,7 @@ Electrical Engineering (Emphasis in Control and Automation) - University of Uber
  [![Terraform](https://img.shields.io/badge/-Terraform-blue)](https://www.terraform.io/) 
  [![Grafana](https://img.shields.io/badge/-Grafana-orange)](https://grafana.com/) 
  [![AWS](https://img.shields.io/badge/-AWS-yellow)](https://aws.amazon.com/) 
+ [![Python](https://img.shields.io/badge/-Python-blue)](https://www.python.org/)
 </br>
 
 
