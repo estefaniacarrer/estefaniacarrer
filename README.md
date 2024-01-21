@@ -23,6 +23,7 @@ Electrical Engineering (Emphasis in Control and Automation) - University of Uber
 
 
  [![Java](https://img.shields.io/badge/-Java-orange)](https://www.java.com/pt-BR/) 
+ [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5)](https://kotlinlang.org/)
  [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot) 
  [![API REST](https://img.shields.io/badge/-API%20REST-blueviolet)](https://restfulapi.net/) 
  [![JPA](https://img.shields.io/badge/-JPA-informational)](https://www.oracle.com/br/java/technologies/java-persistence-api.html) 
