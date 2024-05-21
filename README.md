@@ -8,7 +8,7 @@ Hello, my name is Estefania Carrer. I have a degree in Electrical Engineering an
 ## 📚 Education: 
 
 
-Software Development (Java) - Free Courses - 05/2022 to Present.</br>
+Software Development - Free Courses - 05/2022 to Present.</br>
 Electrical Engineering (Emphasis in Control and Automation) - University of Uberaba - 01/2011 - 12/2015. 
 </br>
 
